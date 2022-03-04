@@ -1,4 +1,4 @@
-
+o
 //===============================================Imports==============================================================
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { getInfo } = require('ytdl-core-discord');
